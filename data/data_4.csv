@@ -1,0 +1,10 @@
+OrderID,CustomerID,Product,Quantity,Price,OrderDate,Region
+1001,C001,Laptop,2,1000,2022-05-01,North America
+1002,C002,Tablet,5,300,2022-05-03,Europe
+1003,C003,Smartphone,3,not available,2022-05-04,Asia
+1004,C004,Headphones,Ten,50,2022/05/05,North America
+1005,C005,Monitor,1,200,2022-05-06,Europe
+1006,C006,Keyboard,,80,05-07-2022,South America
+1007,C007,Mouse,4,25,2022-05-08,Asia
+1008,C008,Smartwatch,2,250,2022-05-09,Africa
+1009,C009,Tablet,Two,300,2022-05-10,Europe
